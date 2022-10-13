@@ -1,2 +1,2 @@
 # Echauffement-OHCE
-Échauffement:OHCE pour module de test.
+Echauffement:OHCE pour module de test de GRAVY Thomas.
